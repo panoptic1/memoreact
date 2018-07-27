@@ -1,13 +1,13 @@
 import React, { Component } from 'react';
-//import Game from './components/Game';
-import GameCard from "./components/GameCard";
+import Game from './components/Game';
+/*import GameCard from "./components/GameCard";
 import Wrapper from "./components/Wrapper";
 import Scoreboard from "./components/Scoreboard";
-import mammals from "./mammalia.json"
+import mammals from "./mammalia.json"*/
 import './App.css';
 
-//const App = () => <Game />
-let currentScore = 0
+const App = () => <Game />
+/*let currentScore = 0
 let highScore = 0
 
 class App extends Component {
@@ -39,6 +39,6 @@ class App extends Component {
             </Wrapper>
         );
     }
-}
+}*/
 
 export default App;
