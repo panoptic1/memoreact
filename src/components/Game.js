@@ -13,11 +13,19 @@ class Game extends Component {
         highScore:0
     };
 
-    //clickCard function will check whether or not the card has been clicked
+    //handleClick function will check whether or not the card has been clicked
+    handleClick = () => {
+        console.log("Level 1 Accessed")
         //if clicked=false current score will increment by 1 and the cards will shuffle
+        if (this.clicked === false){
+            console.log("Level 2 Accessed")
+            this.setState({ currentScore : this.state.currentScore + 1})
+        }
         //if clicked=true current score will be checked against highScore.
             //if currentScore at the end of the game is > than highScore, then it is the new highScore
             //values reset to original state
+
+    }
 
     // Map over this.state.friends and render a FriendCard component for each friend object
     render() {
@@ -32,11 +40,12 @@ class Game extends Component {
             {this.state.mammals.map(mammal => (
             <GameCard
                 //Function for when the user clicks a card-either it will increment a point, or start the game over. 
-                //clickCard={this.clickCard}
+                handleClick={this.handleClick}
                 id={mammal.id}
                 key={mammal.id}
                 name={mammal.name}
                 image={mammal.image}
+                clicked={mammal.clicked}
             />
             ))}
             </Wrapper>

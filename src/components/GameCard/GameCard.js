@@ -7,7 +7,7 @@ const GameCard = props => (
       <img alt={props.name} 
            src={props.image} />
     </div>
-    <div className="content" /*onClick={() => props.removeFriend(props.id)}*/ >
+    <div className="content" onClick={() => props.handleClick(props.id)} >
         <h2>
           <strong>Name:</strong> {props.name}
         </h2>

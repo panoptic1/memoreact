@@ -2,62 +2,74 @@
     {
       "id": 1,
       "name": "Lion",
-      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSu4tfNrudruThiTNF2e3hDwgLSzgMOINXyGcOwTGhl2oS5zc3s"
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSu4tfNrudruThiTNF2e3hDwgLSzgMOINXyGcOwTGhl2oS5zc3s",
+      "clicked": false
     },
     {
       "id": 2,
       "name": "Badger",
-      "image": "http://www.garlynzoo.com/images/smiling-badger-IMG_2882.jpg"
+      "image": "http://www.garlynzoo.com/images/smiling-badger-IMG_2882.jpg",
+      "clicked": false
     },
     {
       "id": 3,
       "name": "Jackal",
-      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2TkxjDq8mySzkBifwTfOdnt7o5vwm0yr0_-kzIAncNYjVpOOn"
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2TkxjDq8mySzkBifwTfOdnt7o5vwm0yr0_-kzIAncNYjVpOOn",
+      "clicked": false
     },
     {
       "id": 4,
       "name": "Hyena",
-      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRazWBtZ4o576fkIsL9KLMWQxEIoa85gM77oy3H41fwGXb5q4Im"
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRazWBtZ4o576fkIsL9KLMWQxEIoa85gM77oy3H41fwGXb5q4Im",
+      "clicked": false
     },
     {
       "id": 5,
       "name": "Gray Wolf",
-      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpJwdlT5-JxmK7GlB31mobT_SnK7_h8HcTJ52pRemXttiWysLuAg"
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpJwdlT5-JxmK7GlB31mobT_SnK7_h8HcTJ52pRemXttiWysLuAg",
+      "clicked": false
     },
     {
       "id": 6,
       "name": "Moose",
-      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWj9Q5TPHpfWBy1LcYAJEjMd0t0QPWxFEAc1m6FoJWKtYqW6nP0w"
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWj9Q5TPHpfWBy1LcYAJEjMd0t0QPWxFEAc1m6FoJWKtYqW6nP0w",
+      "clicked": false
     },
     {
       "id": 7,
       "name": "Ocelot",
-      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1uJg6_QwJhu-1ItxWPmaw2b7txL1RmxjLngEW0oAyIOQtKgU3dQ"
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1uJg6_QwJhu-1ItxWPmaw2b7txL1RmxjLngEW0oAyIOQtKgU3dQ",
+      "clicked": false
     },
     {
       "id": 8,
       "name": "Dolphin",
-      "image": "https://nationalpostcom.files.wordpress.com/2017/10/mainart3.jpg"
+      "image": "https://nationalpostcom.files.wordpress.com/2017/10/mainart3.jpg",
+      "clicked": false
     },
     {
       "id": 9,
       "name": "Blue Whale",
-      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTI3gzWYaEkKU7lUfXlwG05aHBkaVEuMT5HgS2F8JFCsZqc-3u-Ng"
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTI3gzWYaEkKU7lUfXlwG05aHBkaVEuMT5HgS2F8JFCsZqc-3u-Ng",
+      "clicked": false
     },
     {
       "id": 10,
       "name": "Jaguar",
-      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKyijEbXuC-0DC6IeJJXWr-yFWZpwDuXzSaOXXBFmdxfH74Idl"
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKyijEbXuC-0DC6IeJJXWr-yFWZpwDuXzSaOXXBFmdxfH74Idl",
+      "clicked": false
     },
     {
       "id": 11,
       "name": "Sloth Bear",
-      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtVYjpq7a7R1Vd_8PQb3zHxLLBZ2fdvg4jz-dW38RALHsnG_1fWQ"
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtVYjpq7a7R1Vd_8PQb3zHxLLBZ2fdvg4jz-dW38RALHsnG_1fWQ",
+      "clicked": false
     },
     {
       "id": 12,
       "name": "Human",
-      "image": "https://static1.squarespace.com/static/5433a4d5e4b0a73028ce9737/58f8d6d32e69cf4df05f9c6f/58f8dd0a1b10e37fd776d26b/1492710049028/you%27re_human_like_the_rest_of_them_05.jpg"
+      "image": "https://static1.squarespace.com/static/5433a4d5e4b0a73028ce9737/58f8d6d32e69cf4df05f9c6f/58f8dd0a1b10e37fd776d26b/1492710049028/you%27re_human_like_the_rest_of_them_05.jpg",
+      "clicked": false
     }
   ]
   
