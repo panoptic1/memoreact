@@ -1,6 +1,6 @@
 import React from "react";
 import "./Scoreboard.css";
 
-const Scoreboard = props => <h1 className="scoreboard jumbotron">{props.children}</h1>;
+const Scoreboard = props => <div className="scoreboard jumbotron">{props.children}</div>;
 
 export default Scoreboard;
